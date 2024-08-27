@@ -1,9 +1,24 @@
-# Hi there, I'm Shoaib! 👋
-# Information Technology Student, Aspiring Cyber Security Professional
+<h1>Hi there, I'm Shoaib! 👋<br/>
+  Information Technology Student, Aspiring Cyber Security Professional</h1>
 
-## 🔐 Cyber Security Projects
-## 🌐 Network Simulation Projects
-## 👨‍💻 Software Development Projects
+<h2>🔐 Cyber Security Projects:</h2>
+- <b>LAMP Stack Vulnerability Testing</b>
+  - [Utilizing Ubuntu and Kali Virtual Machines](https://github.com/shoaib-t/LAMP)
+
+<h2>🌐 Networking Projects</h2>
+- <b>Cisco Network Configuration</b>
+  - [Packet Tracer Simulation](https://github.com/shoaib-t/packet-tracer)
+  
+<h2>👨‍💻 Software Development Projects</h2>
+- <b>Financial Transaction Management Application</b>
+  - [Simulated Banking with Python](https://github.com/shoaib-t/python-bank)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/shoaib-t
+
 <!--
 **shoaib-t/shoaib-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
