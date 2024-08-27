@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Shoaib! 👋<br/>
-  Information Technology Student, Aspiring Cyber Security Professional</h1>
+  Information Technology Student, Aspiring Cyber Professional</h1>
 
 <h2>🔐 Cyber Security Projects:</h2>
 - <b>LAMP Stack Vulnerability Testing</b>
