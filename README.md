@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Shoaib! 👋
+## Information Technology Student, Aspiring Cyber Security Professional
 
+# 🔐 Cyber Security Projects
+# 🌐 Network Simulation Projects
+# 👨‍💻 Software Development Projects
 <!--
 **shoaib-t/shoaib-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
