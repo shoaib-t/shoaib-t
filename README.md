@@ -3,7 +3,7 @@
   Aspiring Software Engineer and Cyber Security Enthusiast</h1>
 
 <h2>🔐 Cyber Security Projects:</h2>
-- <b>LAMP Stack Vulnerability Testing (Linux, Apache, MySQL, Python, Nikto, Nmap, Legion, Wireshark, VirtualBox</b>
+- <b>LAMP Stack Vulnerability Testing (Linux, Apache, MySQL, Python, Nikto, Nmap, Legion, Wireshark, VirtualBox)</b><br />
   - [Utilizing Linux Distribution (Kali Linux & Ubuntu) Virtual Machines](https://github.com/shoaib-t/LAMP)
 
 <h2>🌐 Networking Projects</h2>
