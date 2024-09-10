@@ -8,14 +8,14 @@
 
 <h2>🌐 Networking Projects:</h2>
 
-- <b>Cisco Network Configuration (Packet Tracer)</b>
+- <b>Cisco Network Configuration (Packet Tracer)</b> ⚠️ Not Uploaded Yet
   - [Set-Up Simulation of Cisco Devices](https://github.com/shoaib-t/python-bank)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Financial Transaction Management Application (Python)</b>
+- <b>Financial Transaction Management Application (Python)</b> ⚠️ Not Uploaded Yet
   - [Simulated Banking App](https://github.com/shoaib-t/python-bank)
-- <b>Random Password Generator (CSS, HTML, JavaScript, React, Node.js, Typescript)</b>
+- <b>Random Password Generator (CSS, HTML, JavaScript, React, Node.js, Typescript)</b> ⚠️ Not Uploaded Yet
   - [Customizable, Secure Passphrase Creation](https://github.com/shoaib-t/pwd-gen)
 
 <h2> 🤳 Connect with me:</h2>
