@@ -2,7 +2,7 @@
 
 <h2>🔐 Cyber Security Projects:</h2>
 
-- <b>LAMP Stack Vulnerability Testing (Linux, Apache, MySQL, Python, Nikto, Nmap, Legion, Wireshark, VirtualBox)</b>
+- <b>LAMP Stack Vulnerability Testing (Linux, [Apache](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#simple-python-code--apache-server), [MySQL](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#app-database-creation), [Python](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#simple-python-code--apache-server), [Nikto](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#legion--nikto-vulnerability-scan), [Nmap](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#nmap-scan), [Legion](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#legion--nikto-vulnerability-scan), [Wireshark](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#wireshark-scan), VirtualBox)</b>
   - [Utilizing Linux Distribution (Kali Linux & Ubuntu) Virtual Machines](https://github.com/shoaib-t/LAMP)
 
 <h2>🌐 Networking Projects:</h2>
