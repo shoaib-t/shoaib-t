@@ -1,16 +1,19 @@
 <h1>Hi there, I'm Shoaib! 👋<br/>
-  Information Technology Student, Aspiring Software Engineer and Cyber Security Enthusiast</h1>
+  Information Technology Student<br />
+  Aspiring Software Engineer and Cyber Security Enthusiast</h1>
 
 <h2>🔐 Cyber Security Projects:</h2>
-- <b>LAMP Stack Vulnerability Testing</b>
-  - [Utilizing Ubuntu and Kali Virtual Machines](https://github.com/shoaib-t/LAMP)
+- <b>LAMP Stack Vulnerability Testing (Linux, Apache, MySQL, Python, Nikto, Nmap, Legion, Wireshark, VirtualBox</b>
+  - [Utilizing Linux Distribution (Kali Linux & Ubuntu) Virtual Machines](https://github.com/shoaib-t/LAMP)
 
 <h2>🌐 Networking Projects</h2>
 - <b>Cisco Network Configuration</b>
-  - [Packet Tracer Simulation](https://github.com/shoaib-t/packet-tracer)
+  - [Network Set-Up Simulation](https://github.com/shoaib-t/packet-tracer)
   
 <h2>👨‍💻 Software Development Projects</h2>
 - <b>Financial Transaction Management Application</b>
+  - [Simulated Banking with Python](https://github.com/shoaib-t/python-bank)
+- <b>Random Password Generator</b>
   - [Simulated Banking with Python](https://github.com/shoaib-t/python-bank)
 
 <h2> 🤳 Connect with me:</h2>
