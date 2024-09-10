@@ -3,7 +3,7 @@
 
 <h2>🔐 Cyber Security Projects:</h2>
 
-- <b>LAMP Stack Vulnerability Testing (Linux, [Apache](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#simple-python-code--apache-server), [MySQL](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#app-database-creation), [Python](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#simple-python-code--apache-server), [Nikto](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#legion--nikto-vulnerability-scan), [Nmap](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#nmap-scan), [Legion](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#legion--nikto-vulnerability-scan), [Wireshark](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#wireshark-scan), VirtualBox)</b>
+- <b>LAMP Stack Vulnerability Testing (Linux, [Apache](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#simple-python-code--apache-server), [MySQL](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#app-database-creation), [Python](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#simple-python-code--apache-server), [Nikto](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#legion--nikto-vulnerability-scan), [Nmap](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#nmap-scan), [Legion](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#legion--nikto-vulnerability-scan), [Wireshark](https://github.com/shoaib-t/LAMP?tab=readme-ov-file#wireshark-scan), VirtualBox)</b> ✅ Published
   - [Utilizing Linux Distribution (Kali Linux & Ubuntu) Virtual Machines](https://github.com/shoaib-t/LAMP)
 
 <h2>🌐 Networking Projects:</h2>
@@ -15,7 +15,7 @@
 
 - <b>Financial Transaction Management Application (Python)</b> ⚠️ Not Uploaded Yet
   - [Simulated Banking App](https://github.com/shoaib-t/python-bank)
-- <b>Random Password Generator (CSS, HTML, JavaScript, React, Node.js, Typescript)</b> ⚠️ Not Uploaded Yet
+- <b>Random Password Generator (CSS, HTML, JavaScript, React, Node.js, Typescript)</b> ✅ Published
   - [Customizable, Secure Passphrase Creation](https://github.com/shoaib-t/pwd-gen)
 
 <h2> 🤳 Connect with me:</h2>
