@@ -16,7 +16,7 @@
 - <b>Financial Transaction Management Application (Python)</b> ⚠️ Not Uploaded Yet
   - [Simulated Banking App](https://github.com/shoaib-t/python-bank)
 - <b>Random Password Generator (CSS, HTML, JavaScript, React, Node.js, Typescript)</b> ✅ Published
-  - [Customizable, Secure Passphrase Creation](https://github.com/shoaib-t/pwd-gen)
+  - [Customizable, Secure Credential Creation](https://github.com/shoaib-t/pwd-gen)
 
 <h2> 🤳 Connect with me:</h2>
 
