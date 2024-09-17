@@ -9,7 +9,7 @@
 <h2>🌐 Networking Projects:</h2>
 
 - <b>Cisco Network Configuration (Packet Tracer)</b> ⚠️ Not Uploaded Yet
-  - [Set-Up Simulation of Cisco Devices](https://github.com/shoaib-t/python-bank)
+  - [Set-Up Simulation of Cisco Devices](https://github.com/shoaib-t/pkt-tracer)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
