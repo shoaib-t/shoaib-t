@@ -1,5 +1,5 @@
 <h3>⚠️ GitHub Portfolio Currently In Progress ⚠️</h3>
-<h1>Hi there, I'm Shoaib! 👋<br/>Information Technology, Cyber Security Graduate<br/>Cyber Security Enthusiast, Current: Help Desk Technician</h1>
+<h1>What's good 👋<br/>Information Technology, Cyber Security Graduate<br/>Current: Help Desk Technician</h1>
 
 <h2>🔐 Cyber Security Projects:</h2>
 
